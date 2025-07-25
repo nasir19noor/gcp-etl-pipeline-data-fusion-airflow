@@ -15,3 +15,7 @@ Diagram : https://app.diagrams.net/?src=about#G1rQX0eYRMMgAy684C-CJYtiA9HP5MfHIl
 ### 1. Create Composer Environment
 Create composer environment, choose composer 2
 ![Alt text](images/composer.png "Composer 2")
+
+### 2. Create Data Fusion Instance
+
+![Alt text](images/datafusion-2.png "Data Fusion")
