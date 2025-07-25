@@ -11,3 +11,7 @@ Requirements:
 Diagram : https://app.diagrams.net/?src=about#G1rQX0eYRMMgAy684C-CJYtiA9HP5MfHIl#%7B%22pageId%22%3A%22ZXkrpQSN2tBN8oPkyrdC%22%7D
 
 ![Alt text](images/diagram.png "Diagram")
+
+### 1. Create Composer Environment
+Create composer environment, choose composer 2
+![Alt text](images/composer.png "Composer 2")
